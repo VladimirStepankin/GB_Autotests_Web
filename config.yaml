@@ -1,0 +1,31 @@
+address: https://test-stand.gb.ru
+browser: chrome
+login: "AndSuprun"
+passwd: "8e717fa06a"
+url_login: https://test-stand.gb.ru/gateway/login
+
+from_address: "vladimirstepankin@mail.ru"
+to_address: "vladimirstepankin@mail.ru"
+from_address_password: "123456"
+file: "log.txt"
+letter: "Отчет о тестировании"
+
+user_name: "Владимир Степаникн"
+user_email: "vladimirstepankin@mail.ru"
+content_contact: "Добрый день! Рад знакомству!"
+
+title: "Оладушки"
+description: "Рецепт оладушек"
+content: "РЕЦЕПТ:
+мука в/с ± 240 г
+молоко - 150 мл
+вода - 100 мл
+сахар - 15-20 г
+соль - 1/4 ч.л.
+дрожжи сухие - 3 г
+масло растительное - по потребности"
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: Блинчики
